@@ -1,6 +1,10 @@
 ---
 name: Feature request
 about: Suggest a new feature for Veranda Digital
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## (Put feature request title here)
