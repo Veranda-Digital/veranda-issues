@@ -5,11 +5,11 @@ Click on the **Issues** tab or click right [here](https://github.com/Veranda-Dig
 
 Please only use this project to report or track issues with our software and/or hardware, if you have an issue with a delivery or you simply have a question; please send an email to our administrator at [admin@verandadigital.com](mailto:admin@verandadigital.com)
 
-Thank you for your participation and contribution to the development of the Veranda platform! 
+Thank you for your participation and contributions towards the development of the Veranda platform! 
 
 ## Guidelines
 1. Please be descriptive and informative when you open an issue so that we are able to quickly identify and resolve the issue.
-2. Please be respectful and polite as you interact with the Veranda Digital team through GitHub issues.
+2. Please be respectful and polite as you interact with the Veranda Digital team and community members through GitHub issues.
 
 
 ## Security disclosures
