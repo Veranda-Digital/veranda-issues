@@ -13,4 +13,4 @@ Thank you for your participation and contributions towards the development of th
 
 
 ## Security disclosures
-If you identify a vulnerability or other security related bug, please send a note to admin@verandadigital.com before opening a GitHub issue. This will allow us to assess the disclosure and prepare a fix prior to a public disclosure. 
+If you identify a vulnerability or other security related bug, please send a note to admin@verandadigital.com before opening a GitHub issue. This will allow us to assess and prepare a fix prior to a public disclosure. 
